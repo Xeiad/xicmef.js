@@ -1,0 +1,2 @@
+# xicmef.js
+Fi-Re-Vive, so called XICMEF.js is a javascript documentation for newbies who want to learn JavaScript easier, This contains what they need, a page designed to log their IP plus a random-generated certificate, the IP stays locally on the machine and is never published to any server, Fi-Re-Vive is a project, non-profit one, Created By Xeiad with no help from anybody else, read more from the READ ME.txt file
